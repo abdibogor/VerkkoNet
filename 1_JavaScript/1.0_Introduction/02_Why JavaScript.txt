@@ -1,0 +1,8 @@
+To add the behaviour to the website / web application
+
+What can it really do?
+. Add / Remove HTML elements
+. Add / Append / Modify / Remove HTML content
+. Adds / Removes the style to the HTML element
+. validates the form / input
+. Gets data from the server and displa it in browser (AJAX)

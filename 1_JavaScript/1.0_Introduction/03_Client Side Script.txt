@@ -1,0 +1,2 @@
+Code runs on user's computer
+The client refers the browser

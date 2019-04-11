@@ -1,0 +1,12 @@
+What is JavaScript?
+
+.Programming Language (Interpreted Language)
+.Third Layer in Standard Web Technologies
+.Client Side Script
+
+
+Standard Web Technologies
+
+. HTML (Hyper Text Markup Language)
+. CSS (Cascading Style Sheet)
+. JS (JavaScript)
